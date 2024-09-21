@@ -1,0 +1,12 @@
+ID,Sex,Age,Variant,Date,Lesion_First,Right_First,Left_First,After,Lesion_Second,Right_Second,Left_Second,Growth,Stage
+A,M,38,Beta,2020-07-03,16%,19%,14%,11 D,39%,46%,33%,23%,Spread
+B,F,85,Beta,2020-09-11,52%,48%,55%,17 D,56%,51%,62%,4%,Almost Stable
+C,M,47,Delta,2020-11-05,9%,10%,8%,5 D,24%,25%,23%,15%,Spread
+D,M,58,Delta,2020-11-25,11%,10%,13%,4 D,14%,12%,15%,3%,Almost Stable
+E,M,76,Delta,2020-12-22,18%,18%,19%,9 D,16%,13%,20%,-2%,Almost Stable
+F,M,72,Lambda,2021-04-14,24%,25%,24%,15 D,24%,25%,24%,-,Stable
+G,M,73,Lambda,2021-06-17,7%,7%,7%,7 D,29%,34%,24%,22%,Spread
+H,M,31,Omicron,2021-11-07,15%,16%,15%,4 D,15%,17%,13%,-,Stable
+I,F,55,Omicron,2021-11-10,12%,10%,13%,16 D,15%,11%,20%,3%,Spread-R
+J,F,58,Omicron,2021-12-07,23%,24%,21%,14 D,7%,8%,7%,-15%,Recovery
+K,M,45,Omicron,2022-01-14,9%,10%,9%,6 D,8%,9%,8%,-1%,Almost Stable
